@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+    <project name="test" default="start">
+	    <target name="start">
+		   <echo>Jenkins test job</echo>
+		</target>
+	</project>
